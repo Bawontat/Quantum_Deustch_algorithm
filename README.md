@@ -1,2 +1,4 @@
-# Quantum_Deustch_algotithm
-Simply Implementation with a coffee in sunday morning
+# Quantum_Deustch_algorithm
+Simply Implementation with a coffee in sunday morning hahaha
+
+
